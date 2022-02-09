@@ -1,0 +1,55 @@
+body {
+  background-color: #EEEEEE;
+    font-family: Bahnschrift SemiLight,sans-serif;
+    color: #444444;
+}
+
+p {
+  font-size: 16px;
+}
+
+h1 {
+  margin-bottom: 4px;
+}
+
+.me{
+  position: absolute;
+  left: 130px;
+  top: 40px;
+}
+
+.name {
+  position: absolute;
+left: 450px;
+top: 0;
+font-size: 36px;
+}
+
+
+.hr1 {
+  position: absolute;
+  left: 260px;
+  top: 320px;
+
+}
+
+.text {
+  position: absolute;
+  top: 400px;
+  left: 300px;
+  font-size: 20px;
+}
+
+.edu {
+  position: absolute;
+  font-size: 17px;
+  top:420px;
+}
+.lista {
+  font-size: 16px;
+}
+.vr1 {
+  position: absolute;
+  left: 220px;
+  top: 330px;
+}

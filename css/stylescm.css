@@ -1,0 +1,40 @@
+body {
+background-image: url("image/bicm.png");
+background-size: cover;
+color: #323232;
+font-family: Bahnschrift SemiLight,sans-serif;
+}
+
+.form {
+  position: absolute;
+  left: 60px;
+  top: 50px;
+}
+
+.shape {
+  transform: rotate(45deg);
+}
+
+.text {
+  position: absolute;
+  left: 160px;
+  top: 170px;
+}
+
+.mail {
+  position: absolute;
+  top:235px;
+  left: 134px;
+}
+
+.phone {
+  position: absolute;
+  top: 269px;
+  left: 134px;
+}
+
+.fb {
+  position: absolute;
+  top: 303px;
+  left: 134px;
+}
